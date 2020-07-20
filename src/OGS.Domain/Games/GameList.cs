@@ -8,5 +8,5 @@ namespace OGS.Domain
         public string Next {get;set;}
         public int Previous {get;set;}
         
-    }
+    } 
 }
